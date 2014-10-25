@@ -1,3 +1,5 @@
-# Javascript 学习
-* [var](var.md) 变量定义
-* [if](if.md) 流程控制
+# Var
+## 定义变量
+```
+var a = 3;//定义变量a
+```
