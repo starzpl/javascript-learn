@@ -1,3 +1,7 @@
-# Javascript 学习
-* [var](var.md) 变量定义
-* [if](if.md) 流程控制
+# if 
+```
+var isCool = true;
+if(isCool){
+	console.log('you are cool');
+}
+```
